@@ -18,7 +18,8 @@
     "tabs",
     "http://*/*",
     "https://*/*",
-    "background"
+    "background",
+    "contextMenus"
   ],
   "options_ui": {
     "page": "options.html",
